@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ejapoaqa.github.io/BAn/sitemap_index.txt
+Sitemap: https://ejapoaqa.github.io/LnG/sitemap_index.txt
+Sitemap: https://ejapoaqa.github.io/SDV/sitemap_index.txt
+Sitemap: https://ejapoaqa.github.io/dHA/sitemap_index.txt
